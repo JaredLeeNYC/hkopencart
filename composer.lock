@@ -1023,6 +1023,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
+        "ext-gd": "*",
         "php": ">=5.4.0"
     },
     "platform-dev": [],
